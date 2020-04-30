@@ -56,7 +56,8 @@ Skills
 
 Publications
 ======
-* <b>Manikandan Ravikiran</b>. <a href="http://arxiv.org/abs/2004.01549" style="text-decoration: none;">Finding Black Cat in a Coal Cellar - Keyphrase Extraction and Keyphrase-Rubric Relationship Extraction from Complex Assignments</a>. Working Paper (2020).
+* <b>Manikandan Ravikiran</b>. <a href="http://arxiv.org/abs/2004.01549" style="text-decoration: none;">Finding Black Cat in a Coal Cellar - Keyphrase Extraction and Keyphrase-Rubric Relationship Extraction from Complex Assignments</a>. ArXiv abs/2004.01549 (2020).
+
 <!-- * <b>Manikandan Ravikiran</b>. <a href="http://arxiv.org/abs/2004.01549" style="text-decoration: none;"> Unsupervised Keyphrase Rubric Relationship Classification in Complex Assignments</a>. ArXiv abs/2004.01549 (2020).
  -->
 * <b>Manikandan Ravikiran</b>. <a href="https://arxiv.org/abs/2003.07019" style="text-decoration: none;"> Key Phrase Classification in Complex Assignments</a>. ArXiv abs/2003.07019 (2020).
