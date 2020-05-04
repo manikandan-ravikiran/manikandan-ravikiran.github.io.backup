@@ -57,7 +57,7 @@ Skills
 Publications
 ======
 
-* <b>Manikandan Ravikiran</b>, Amin Ekant Muljibhai, Toshinori Miyoshi, Hiroaki Ozaki, Yuta Koreeda and Sakata Masayuki. <a href="https://manikandan-ravikiran.github.io/files/semeval2020.pdf" style="text-decoration: none;">SemEval-2020 Task 12: Offensive Language Identification with Noisy Labels using Statistical Sampling and Post-Processing</a>. Working Paper (2020).
+* <b>Manikandan Ravikiran</b>, Amin Ekant Muljibhai, Toshinori Miyoshi, Hiroaki Ozaki, Yuta Koreeda and Sakata Masayuki. <a href="https://arxiv.org/abs/2005.00295" style="text-decoration: none;">SemEval-2020 Task 12: Offensive Language Identification with Noisy Labels using Statistical Sampling and Post-Processing</a>. ArXiv abs/2005.00295 (2020).
 
 * <b>Manikandan Ravikiran</b>. <a href="http://arxiv.org/abs/2004.01549" style="text-decoration: none;">Finding Black Cat in a Coal Cellar - Keyphrase Extraction and Keyphrase-Rubric Relationship Extraction from Complex Assignments</a>. ArXiv abs/2004.01549 (2020).
 
