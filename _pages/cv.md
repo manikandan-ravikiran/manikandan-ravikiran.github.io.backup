@@ -15,10 +15,6 @@ Education
 
 Work experience
 ======
-* 2020 - Current: Senior Research Engineer
-  * R&D Center, Hitachi India Pvt. Ltd
-  * Computer Vision
-
 * 2018 - 2020: Research Engineer
   * R&D Center, Hitachi India Pvt. Ltd
   * Computer Vision & Natural Language Processing
