@@ -11,11 +11,15 @@ redirect_from:
 Education
 ======
 * Bachelors in Computer Science and Engineering, <b> Visvesvaraya Technological University </b>, PESIT Bangalore South Campus, 2015
-* Masters in Computer Science and Interactive Intelligence, @ <a href="http://lucylabs.gatech.edu/" style="text-decoration: none;">LucyLab</a> <b> Georgia Institue of Technology </b>, College of Computing, 2021 (expected)
+* Masters in Computer Science and Interactive Intelligence, @ <a href="http://lucylabs.gatech.edu/" style="text-decoration: none;">LucyLab</a> <b> Georgia Institue of Technology </b>, College of Computing, 2022 (expected)
 
 Work experience
 ======
-* 2018 - Current: Research Engineer
+* 2020 - Current: Senior Research Engineer
+  * R&D Center, Hitachi India Pvt. Ltd
+  * Computer Vision
+
+* 2018 - 2020: Research Engineer
   * R&D Center, Hitachi India Pvt. Ltd
   * Computer Vision & Natural Language Processing
     * Developed unified framework for multiple vision tasks through instance based learning and offensive language identification through language modeling.
