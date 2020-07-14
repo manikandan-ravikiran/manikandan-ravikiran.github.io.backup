@@ -1,38 +1,12 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /sitemaps/
+permalink: /sitemap/
 author_profile: true
 ---
-<!-----
-{% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+Welcome! I am a Senior Research Engineer at <b> Hitachi Research & Development, Digital Solution Research Group, Bangalore </b> working on the application of Machine Learning and Deep Learning in the areas of Natural Language Processing and Computer Vision with multiple publications and patents. In parallel, I am also an Masters Student in Computer Science at Georgia Tech, College of Computing Specializing on Interactive Intelligence and part of <a href="http://www.davidjoyner.net/" style="text-decoration: none;"> Lucy Labs </a> under <b> Prof. David Joyner </b>. Previously, I completed my bachelor's at PESIT-BSC, Bangalore, where I worked under the guidance of  Dr. Snehanshu Saha (<a href="https://www.linkedin.com/in/snehanshusaha/" style="text-decoration: none;"> APP CAIR BITS PILANI</a>) and Dr. Srikantamurthy.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+Some of my past collaborators include Prof. Vinay Namboodiri (<a href="http://deltalab.iitk.ac.in/" style="text-decoration: none;">DelTA Lab, IIT-K </a>), Prof. Gaurav Sharma (<a href="http://grvsharma.com" style="text-decoration: none;"> IIT-K and INRIA-THOTH, NEC Media Anlytics - USA</a>),  Prof. Shinichi Satoh and Group (<a href="http://www.satoh-lab.nii.ac.jp/" style="text-decoration: none;"> National Institue of Informatics, Japan </a>), Prof. Andreas Dengel, Sheraz Ahmed, Jorn Hees (<a href="https://www.dfki.de/en/web/research/research-departments-and-groups/smart-data-knowledge-services/team-sds/" style="text-decoration: none;">   DFKI Germany - Smart Data & Knowledge Services Group</a>).
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
---->
+My research interests are broadly in large scale applications of artificial intelligence, including Natural Language Processing and Computer Vision. My ultimate research goal is to develop and improve natural language processing with a focus on healthcare and educational applications.
